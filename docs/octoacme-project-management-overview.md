@@ -45,7 +45,7 @@ Applies to all cross-functional projects that deliver product features, services
 - Keep the Project Charter updated in the project repo.
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
 
-## 3–4 Paragraph Summary
+## Project Management Summary
 OctoAcme manages delivery through a lightweight lifecycle of initiation, planning, execution, release, and close/retrospective. In initiation, teams confirm the business need, define measurable outcomes, align stakeholders, and make a go/no-go decision for planning. The core starting artifact is a project one-pager/charter that captures the problem statement, goals, success metrics, stakeholders, initial timeline, and early risks. Once approved, the team sets up a project board or repo structure so planning and execution have a clear source of truth.
 
 Planning turns the approved idea into a workable delivery path. Teams run a kickoff, build and prioritize a backlog with acceptance criteria, estimate scope, define a Definition of Done (DoD), and map dependencies. They also create a release plan with milestones and maintain a risk register that tracks impact, likelihood, ownership, and mitigation actions. This stage formalizes how work is sequenced, how cross-team dependencies are handled, and how risks are monitored throughout delivery.
