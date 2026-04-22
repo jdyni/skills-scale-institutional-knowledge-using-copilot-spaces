@@ -19,6 +19,7 @@ Applies to all cross-functional projects that deliver product features, services
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
+- Extended contributors (as needed): User Researcher, UX Designer, Technical Writer, and DevOps Engineer (see [Roles & Personas](./octoacme-roles-and-personas.md)).
 
 ## Key Artifacts
 - Project Charter / One-pager
@@ -27,6 +28,8 @@ Applies to all cross-functional projects that deliver product features, services
 - Acceptance Criteria & Definition of Done
 - Risk Register
 - Retrospective notes and action items
+- [Research-to-Requirements Template](./octoacme-research-to-requirements-template.md) (when discovery is needed)
+- [Collaboration Touchpoints & Handoff Checklist](./octoacme-collaboration-touchpoints-and-handoff-checklist.md)
 
 ## Lifecycle (high-level)
 1. Initiation: problem statement, stakeholders, high-level timeline.
@@ -44,6 +47,7 @@ Applies to all cross-functional projects that deliver product features, services
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
+- Use [Roles & Personas](./octoacme-roles-and-personas.md) plus the reusable templates above to make ownership and handoffs explicit.
 
 ## Project Management Summary
 OctoAcme manages delivery through a lightweight lifecycle of initiation, planning, execution, release, and close/retrospective. In initiation, teams confirm the business need, define measurable outcomes, align stakeholders, and make a go/no-go decision for planning. The core starting artifact is a project one-pager/charter that captures the problem statement, goals, success metrics, stakeholders, initial timeline, and early risks. Once approved, the team sets up a project board or repo structure so planning and execution have a clear source of truth.

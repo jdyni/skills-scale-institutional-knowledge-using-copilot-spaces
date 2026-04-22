@@ -23,6 +23,7 @@ Maintain a simple table with:
 - Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
+- Confirm communication owners and touchpoints in the [collaboration checklist](./octoacme-collaboration-touchpoints-and-handoff-checklist.md)
 
 ## Communication Templates
 Weekly Status Template:

@@ -22,3 +22,5 @@ Quality assurance is embedded from PR to production. OctoAcme favors small PRs l
 - [Risk management & communication](./octoacme-risks-and-communication.md)
 - [Retrospective & continuous improvement](./octoacme-retrospective-and-continuous-improvement.md)
 - [Roles & personas](./octoacme-roles-and-personas.md)
+- [Research-to-requirements template](./octoacme-research-to-requirements-template.md)
+- [Collaboration touchpoints & handoff checklist](./octoacme-collaboration-touchpoints-and-handoff-checklist.md)

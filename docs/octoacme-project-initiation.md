@@ -18,6 +18,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - High-level timeline and key milestones
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
+- Research-to-requirements brief (when discovery is required): [template](./octoacme-research-to-requirements-template.md)
 
 ## Project One-pager Template
 - Project name:
@@ -35,6 +36,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+- [ ] Draft RACI-lite and touchpoints using the [collaboration checklist](./octoacme-collaboration-touchpoints-and-handoff-checklist.md)
 
 ## Decision Gate
 Move to planning when:

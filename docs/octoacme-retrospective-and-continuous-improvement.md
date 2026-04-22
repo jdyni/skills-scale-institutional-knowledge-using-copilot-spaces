@@ -20,6 +20,7 @@ After each sprint, release, or important milestone. Also after incidents.
 ## Tracking Improvements
 - Add action items to the project backlog or issues with clear owners and timelines
 - Review outstanding actions in the weekly PM sync
+- Review collaboration/handoff misses against the [collaboration checklist](./octoacme-collaboration-touchpoints-and-handoff-checklist.md) and assign follow-up owners
 
 ## Example Action Item Template
 - Title:
