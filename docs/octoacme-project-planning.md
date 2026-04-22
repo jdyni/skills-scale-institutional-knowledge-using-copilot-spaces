@@ -34,6 +34,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Capture in Risk Register:
   - ID, Description, Impact, Probability, Owner, Mitigation
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
+- Confirm role ownership and handoffs in the [collaboration checklist](./octoacme-collaboration-touchpoints-and-handoff-checklist.md)
 
 ## Planning Checklist
 - [ ] Project kickoff held
@@ -41,3 +42,4 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] Research findings translated into requirement candidates using the [research-to-requirements template](./octoacme-research-to-requirements-template.md) (if applicable)
